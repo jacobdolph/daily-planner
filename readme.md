@@ -6,10 +6,10 @@ The purpose of this application is to create a to do list in a scheduler and if 
 ​
 ### Gallery
 ​
-Home:
+Desktop
 ![Schedular](assets/images/scheduler.jpg "desktop view")
 ​
-Sign In:
+Mobile
 ![schedular-mobile](assets/images/scheduler-mobile.jpg "mobile View")
 ​
 ​
