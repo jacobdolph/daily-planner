@@ -44,7 +44,7 @@ function hoursUpdater() {
 
 
 $(".saveBtn").on("click", function () {
-    localStorage.setItem($(this).parent().attr("id"), $(this).siblings("textarea").val())
+    localStorage.setItem($(this).parent().attr("id"), $(this).siblings("textarea").val().trim())
 
 })
 

@@ -31,8 +31,8 @@ body {
   }
   
   .row {
-    white-space: pre-wrap;
-    height: 80px;
+    /* white-space: pre-wrap; */
+    height: auto;
     border-top: 1px solid white;;
   }
   
@@ -63,6 +63,7 @@ body {
     border-bottom-right-radius: 15px;
     background-color: #06AED5;
     color: white;
+    height: auto;
   }
   
   .saveBtn i:hover {
